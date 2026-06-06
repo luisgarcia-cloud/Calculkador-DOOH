@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora DOOH",
+  "description": "Calculadora de multiplicador e ingresos para pantallas DOOH (Digital Out-Of-Home).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
